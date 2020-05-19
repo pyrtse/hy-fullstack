@@ -1,0 +1,10 @@
+PUT http://localhost:3003/api/blogs/5ead82cc5de2c137942c5d76
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3RpIiwiaWQiOiI1ZWFkYWEzZmFjMjU2YjRlMjg1NjZiZjgiLCJpYXQiOjE1ODg0NDA3MzZ9.wNKucJRYygHTdNP0xnObVvc519Z3YyTp2VODwaQf_Ng
+
+{
+    "author": "Pyry",
+    "url": "erkki esimekki",
+    "likes":101,
+    "userId": "5ead6e91d94e482c3cf35add"
+}
